@@ -15,6 +15,14 @@
     text-shadow: 0px 0px 2px rgba(0, 0, 0, 0.33);
 }
 
+#calculator_a span {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: white;
+    text-shadow: 0px 0px 2px rgba(0, 0, 0, 0.33);
+}
+
+
 #calculator #formula-input {
     width: 100%;
     margin-top: 8px;
